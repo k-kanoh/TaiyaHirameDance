@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <ApplicationHighDpiMode>DpiUnaware</ApplicationHighDpiMode>
+  </PropertyGroup>
+</Project>
